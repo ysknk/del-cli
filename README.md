@@ -1,8 +1,8 @@
-# del-cli
+# glob-del-cli
 
 ## Description
 
-delのcli化したもの。  
+delをcli化。globで複数ファイルを指定して削除できるようにしたもの。  
 引数を渡すことでdelを実行することができる。  
 
 ## Requirement
