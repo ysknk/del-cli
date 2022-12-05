@@ -1,14 +1,14 @@
 {
-  "name": "del-cli",
+  "name": "glob-del-cli",
   "version": "0.1.0",
-  "description": "del cli",
+  "description": "glob del cli",
   "main": "index.js",
   "scripts": {
     "test": "node ./bin/del.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ysknk/del-cli.git"
+    "url": "git+ssh://git@github.com:ysknk/glob-del-cli.git"
   },
   "bin": {
     "del": "./bin/del.js"
