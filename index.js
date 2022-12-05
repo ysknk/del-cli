@@ -16,7 +16,7 @@ import argv from './lib/arguments.js'
 
 glob.sync(argv.src, {
   ignore: argv.ignore,
-  cwd: argv.base
+  cwd: argv.cwd
 }).map((key) => {
   let filepath = key
 
