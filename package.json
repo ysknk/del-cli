@@ -11,7 +11,7 @@
     "url": "git+ssh://git@github.com:ysknk/del-cli.git"
   },
   "bin": {
-    "del-cli": "./bin/del.js"
+    "del": "./bin/del.js"
   },
   "type": "module",
   "keywords": [
