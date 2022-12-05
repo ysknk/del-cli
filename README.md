@@ -1,4 +1,4 @@
-# glob-del-cli
+# glob-del
 
 ## Description
 
@@ -12,7 +12,7 @@ delをcli化。globで複数ファイルを指定して削除できるように�
 ## Install
 
 ```sh
-npm i -D https://github.com/ysknk/glob-del-cli.git
+npm i -D https://github.com/ysknk/glob-del.git
 ```
 
 ## Usage
