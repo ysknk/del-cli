@@ -1,5 +1,5 @@
 export default {
-  base: "./test/",
+  cwd: "./test/",
   // ignore: "**/_*",
   src: "**/[!_]*.js",
   dryRun: true
