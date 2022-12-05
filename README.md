@@ -36,5 +36,5 @@ npm run del -- --help
 
 project root `.delrc.js`  
 or  
-cli `npm run del -- -base \"./test/\" -src \"**/[!_]*.js\" -dryRun true
+cli `npm run del -- -cwd \"./test/\" -src \"**/[!_]*.js\" -dryRun true
 `
