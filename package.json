@@ -4,14 +4,14 @@
   "description": "del cli",
   "main": "index.js",
   "scripts": {
-    "test": "node ./bin/del-cli.js"
+    "test": "node ./bin/del.js"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:ysknk/del-cli.git"
   },
   "bin": {
-    "del-cli": "./bin/del-cli.js"
+    "del-cli": "./bin/del.js"
   },
   "type": "module",
   "keywords": [
