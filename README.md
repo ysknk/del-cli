@@ -22,7 +22,7 @@ npm i -D https://github.com/ysknk/del-cli.git
 ```json
 {
   "scripts": {
-    "del-cli": "del-cli"
+    "del": "del"
   },
 }
 ```
