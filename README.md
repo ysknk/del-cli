@@ -29,12 +29,12 @@ npm i -D https://github.com/ysknk/del-cli.git
 
 ```sh
 # check arguments help
-npm run del-cli -- --help
+npm run del -- --help
 ```
 
 ### ex) set options
 
 project local dir `.delrc.js`  
 or  
-cli `npm run del-cli -- -base "./test/" -src "**/[!_]*.js" -dryRun true
+cli `npm run del -- -base "./test/" -src "**/[!_]*.js" -dryRun true
 `
