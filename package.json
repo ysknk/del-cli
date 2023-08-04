@@ -1,5 +1,5 @@
 {
-  "name": "glob-del",
+  "name": "npms-plugins-del",
   "version": "0.1.0",
   "description": "glob del cli",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ysknk/glob-del.git"
+    "url": "git+ssh://git@github.com:ysknk/npms-plugins-del.git"
   },
   "bin": {
     "del": "./bin/del.js"
